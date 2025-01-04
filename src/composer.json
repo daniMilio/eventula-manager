@@ -49,7 +49,7 @@
         "intervention/image": "3.10.1",
         "intervention/image-laravel": "1.3.0",
         "laravel/tinker": "2.10.0",
-        "scssphp/scssphp": "1.13.0",
+        "scssphp/scssphp": "2.0.0",
         "omnipay/paypal": "3.0.2",
         "cviebrock/eloquent-sluggable": "11.0.1",
         "barryvdh/laravel-debugbar": "3.14.10",
@@ -65,11 +65,11 @@
         "laravel/sanctum": "4.0.7",
         "propaganistas/laravel-phone": "5.3.3",
         "symfony/mailgun-mailer": "7.2.0",
-        "symfony/http-client": "7.2.1",
+        "symfony/http-client": "7.2.2",
         "spatie/backtrace": "1.7.1",
         "haydenpierce/class-finder": "^0.5.3",
-        "dompdf/dompdf": "3.0.1",
-        "barryvdh/laravel-ide-helper": "3.3.0"
+        "dompdf/dompdf": "3.0.2",
+        "barryvdh/laravel-ide-helper": "3.4.0"
     },
     "require-dev": {
         "mockery/mockery": "1.6.12",
